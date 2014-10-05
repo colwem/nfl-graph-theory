@@ -1,0 +1,62 @@
+W#,Winner/tie,Loser/tie,PtsW,PtsL,YdsW,TOW,YdsL,TOL
+1,Seattle Seahawks,Green Bay Packers,36,16,398,1,255,1
+1,New York Jets,Oakland Raiders,19,14,402,2,158,0
+1,Houston Texans,Washington Redskins,17,6,321,1,372,2
+1,Carolina Panthers,Tampa Bay Buccaneers,20,14,334,0,264,3
+1,Atlanta Falcons,New Orleans Saints,37,34,568,1,472,2
+1,Pittsburgh Steelers,Cleveland Browns,30,27,503,1,389,0
+1,Minnesota Vikings,St. Louis Rams,34,6,355,0,318,2
+1,Buffalo Bills,Chicago Bears,23,20,360,1,427,3
+1,Tennessee Titans,Kansas City Chiefs,26,10,405,0,245,3
+1,Denver Broncos,Indianapolis Colts,31,24,361,0,408,2
+1,Miami Dolphins,New England Patriots,33,20,360,3,315,2
+1,Cincinnati Bengals,Baltimore Ravens,23,16,380,0,423,2
+1,San Francisco 49ers,Dallas Cowboys,28,17,319,0,382,4
+1,Philadelphia Eagles,Jacksonville Jaguars,34,17,420,3,306,1
+1,Detroit Lions,New York Giants,35,14,417,0,197,2
+1,Arizona Cardinals,San Diego Chargers,18,17,403,2,290,1
+2,Baltimore Ravens,Pittsburgh Steelers,26,6,323,0,301,3
+2,Arizona Cardinals,New York Giants,25,14,266,0,341,4
+2,Buffalo Bills,Miami Dolphins,29,10,315,0,290,2
+2,Cincinnati Bengals,Atlanta Falcons,24,10,472,0,309,3
+2,Green Bay Packers,New York Jets,31,24,390,1,313,1
+2,San Diego Chargers,Seattle Seahawks,30,21,377,0,288,1
+2,Carolina Panthers,Detroit Lions,24,7,313,0,323,3
+2,Chicago Bears,San Francisco 49ers,28,20,216,0,359,4
+2,Denver Broncos,Kansas City Chiefs,24,17,325,0,380,0
+2,Cleveland Browns,New Orleans Saints,26,24,324,0,397,2
+2,St. Louis Rams,Tampa Bay Buccaneers,19,17,339,1,332,1
+2,Washington Redskins,Jacksonville Jaguars,41,10,449,0,148,1
+2,New England Patriots,Minnesota Vikings,30,7,292,0,217,4
+2,Dallas Cowboys,Tennessee Titans,26,10,368,1,314,2
+2,Houston Texans,Oakland Raiders,30,14,327,0,364,4
+2,Philadelphia Eagles,Indianapolis Colts,30,27,458,1,341,2
+3,Atlanta Falcons,Tampa Bay Buccaneers,56,14,488,4,217,5
+3,Pittsburgh Steelers,Carolina Panthers,37,19,454,0,349,2
+3,Dallas Cowboys,St. Louis Rams,34,31,340,2,448,3
+3,Detroit Lions,Green Bay Packers,19,7,353,3,223,1
+3,Indianapolis Colts,Jacksonville Jaguars,44,17,529,0,344,3
+3,Philadelphia Eagles,Washington Redskins,37,34,379,1,511,1
+3,Arizona Cardinals,San Francisco 49ers,23,14,338,1,318,0
+3,Baltimore Ravens,Cleveland Browns,23,21,377,1,375,0
+3,Cincinnati Bengals,Tennessee Titans,33,7,300,1,326,2
+3,San Diego Chargers,Buffalo Bills,22,10,333,0,292,0
+3,New York Giants,Houston Texans,30,17,419,1,411,3
+3,Kansas City Chiefs,Miami Dolphins,34,15,342,2,332,0
+3,Seattle Seahawks,Denver Broncos,26,20,384,1,332,2
+3,New England Patriots,Oakland Raiders,16,9,297,0,241,1
+3,New Orleans Saints,Minnesota Vikings,20,9,396,0,247,0
+3,Chicago Bears,New York Jets,27,19,257,1,414,3
+4,New York Giants,Washington Redskins,45,14,449,1,329,6
+4,Dallas Cowboys,New Orleans Saints,38,17,445,0,438,3
+4,Houston Texans,Buffalo Bills,23,17,301,3,316,2
+4,San Diego Chargers,Jacksonville Jaguars,33,14,407,0,319,3
+4,Detroit Lions,New York Jets,24,17,360,0,336,2
+4,Miami Dolphins,Oakland Raiders,38,14,435,3,317,4
+4,Green Bay Packers,Chicago Bears,38,17,358,0,496,2
+4,Minnesota Vikings,Atlanta Falcons,41,28,558,0,411,2
+4,San Francisco 49ers,Philadelphia Eagles,26,21,407,1,213,4
+4,Baltimore Ravens,Carolina Panthers,38,10,454,0,315,1
+4,Tampa Bay Buccaneers,Pittsburgh Steelers,27,24,350,1,390,1
+4,Indianapolis Colts,Tennessee Titans,41,17,498,1,261,3
+4,Kansas City Chiefs,New England Patriots,41,14,443,0,290,3
